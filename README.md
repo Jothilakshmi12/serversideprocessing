@@ -30,7 +30,8 @@ Now run the server.
 Publish the website in the given URL.
 
 ## PROGRAM :
-```html
+```
+html
 <html>
 <head>
 <meta charset='utf-8'>
